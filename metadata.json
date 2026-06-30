@@ -1,0 +1,6 @@
+{
+  "name": "Phân công & Trực quan lịch dạy",
+  "description": "Ứng dụng hỗ trợ trưởng bộ môn phân công lịch dạy, phát hiện trùng lặp và phân tích thống kê trực quan hóa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
